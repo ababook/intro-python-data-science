@@ -6,7 +6,7 @@
 * Laptop charger
 
 ## Recommended Installation
-We will be using Python 2.7 version for the exercise. Users should install the Anaconda distribution from Continuum - [https://www.continuum.io/downloads](https://www.continuum.io/downloads). **Please make sure you download the Python 2.7 installer.**
+We will be using Python 2.7 version for the exercise. Users should install the Anaconda distribution from Continuum - [https://www.continuum.io/downloads](https://www.continuum.io/downloads). **Please make sure you download Python 2.7,  32 bit version of the installer.**
 
 Please note that installing Anaconda is the **recommended** option for doing the workshop.
 
