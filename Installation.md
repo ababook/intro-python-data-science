@@ -10,7 +10,6 @@ We will be using Python 2.7 version for the exercise. Users should install the A
 
 Please note that installing Anaconda is the **recommended** option for doing the workshop.
 
-
 However, if you don't want to use Anaconda for some reason, then please ensure you have the PyData stack installed in your computer. Please check that the following libraries are installed in your python virtual environment.
 
 * Jupyter
@@ -21,6 +20,14 @@ However, if you don't want to use Anaconda for some reason, then please ensure y
 * Seaborn
 * Sklearn
 * SQLite3
+
+### Post Anaconda Installation
+Please run the below commands from your command line interface
+
+```conda install seaborn```
+
+
+
 
 Run the `check_env.sh` script to check if you have all the packages installed.
 
