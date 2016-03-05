@@ -3,7 +3,7 @@
 This is a repository for the data science workshop in Python to be conducted by Unnati | Hasgeek
 
 1. [Curriculum](curriculum.md) - The scope of the workshop.
-2. [Installation](installation.md) - To get yourself ready for the workshop.
+2. [Installation](Installation.md) - To get yourself ready for the workshop.
 3. [Schedule](schedule.md) - The broad schedule for the workshop
 4. [Approach](approach.md) - The approach and teaching style for the workshop.
 5. [Introduction](introduction.md) - The overall introduction to the workshop.
