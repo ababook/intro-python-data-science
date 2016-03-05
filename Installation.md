@@ -21,12 +21,10 @@ However, if you don't want to use Anaconda for some reason, then please ensure y
 * Sklearn
 * SQLite3
 
-### Post Anaconda Installation
+## Post Anaconda Installation
 Please run the below commands from your command line interface
 
 ```conda install seaborn```
-
-
 
 
 Run the `check_env.sh` script to check if you have all the packages installed.
