@@ -18,7 +18,7 @@
 
 ### Session 3: (1400 - 1530) - Nischal
 
-- Fun visualisation exercise
+- Fun visualisation exercise (Amit)
 - Case 2: Hard Disk Data
 - Descriptive Analytics
 
@@ -37,23 +37,23 @@
 
 ### Optional - Office Hours 2 (0830 - 0930)
 
-### Session 5 (0930 - 1115) - Mr.Rags
+### Session 5 (0930 - 1115) - Raghottam
 
 - Case 2: Hard disk data , predictive analytics
 
 
-### Session 6 (1145 - 1300) - Mr.Barg
+### Session 6 (1145 - 1300) - Bargava
 
 - Case 3: Twitter descriptive analysis
 
 
-### Session 7 (1400 - 1530) - Mr.Kaps & Mr.Barg
+### Session 7 (1400 - 1530) - Bargava
 
-- Fun Demo : Music Visualization
+- Fun Demo : Music Visualization (Amit)
 - Machine Learning - Kaggle BNP Paribas
 
 
-### Session 8 (1600 - 1730) - Mr.Barg
+### Session 8 (1600 - 1730) - Bargava
 - Kaggle
 - Recap and Way Forward
 - Techniques (ML, Big Data, Optimization, Deep Learning)

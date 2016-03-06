@@ -1,4 +1,4 @@
-Market,Month Name,Year,Arrival (q),Price Minimum (Rs/q),Price Maximum (Rs/q),Modal Price (Rs/q),State,Mandi,Date
+market,month,year,quantity,priceMin,priceMax,priceMod,state,city,date
 ABOHAR(PB),January,2005,2350,404,493,446,PB,ABOHAR,January-2005
 ABOHAR(PB),January,2006,900,487,638,563,PB,ABOHAR,January-2006
 ABOHAR(PB),January,2010,790,1283,1592,1460,PB,ABOHAR,January-2010
