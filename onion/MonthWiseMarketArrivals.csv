@@ -1,4 +1,4 @@
-Market,Month Name,Year,Arrival (q),Price Minimum (Rs/q),Price Maximum (Rs/q),Modal Price (Rs/q)
+market,month,year,quantity,priceMin,priceMax,priceMod
 ABOHAR(PB),January,2005,2350,404,493,446
 ABOHAR(PB),January,2006,900,487,638,563
 ABOHAR(PB),January,2010,790,1283,1592,1460
