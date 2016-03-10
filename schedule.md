@@ -4,63 +4,52 @@
 
 ### Session 0: Installation (0830 - 0930)
 
-### Session 1: (0930 - 1115) - Amit
+### Session 1: (0930 - 1115) - Amit & Raghottam
 - Overview of Data Science
-- Industry Examples
 - Introduction to Hypothesis Driven Approach
-- Problem Solving Framework: Frame - Acquire - Refine - Explore - Model - Insight
-
-
-### Session 2: (1145 - 1300) - Amit
-- Case 1: Peeling the Onion
+- Data Science Process: Frame - Acquire - Refine - Explore - Model - Insight
 - How to use Jupyter Notebook
-- Hypothesis: Blah Blah Blah
+- Intro to Data Structures in Python
 
-### Session 3: (1400 - 1530) - Nischal
+### Session 2: (1135 - 1300) - Amit
+- Case 1: Peeling the Onion
+- Exploring the Onion Price and Quantity
 
-- Fun visualisation exercise (Amit)
-- Case 2: Hard Disk Data
-- Descriptive Analytics
+### Session 3: (1400 - 1530) - Amit
+- Fun visualization exercise
+- Communicating the Onion Insights
+- Acquiring the Onion data (Web Scraping)
 
+### Session 4: (1550 - 1730) - Nischal
+- Case 2: Hard Disk Failure
+- Exploration and building intuition around Failure Rates
 
-### Session 4: (1600 - 1730) - Raghottam
-
-- Case 2: Hard Disk Data
-- Predictive Analytics
-
-
-### Optional - Office Hours 1 (1730 - 1830)
+### Optional Advanced Session (1730 - 1830)
+- Working with SQL to Acquire and Refine Hard Disk Data
+- Office Hours
 
 ===================================================================
 
 ## Day 2
 
-### Optional - Office Hours 2 (0830 - 0930)
-
 ### Session 5 (0930 - 1115) - Raghottam
+- Case 3: Shining Diamonds
+- Linear Regression
 
-- Case 2: Hard disk data , predictive analytics
-
-
-### Session 6 (1145 - 1300) - Bargava
-
-- Case 3: Twitter descriptive analysis
-
+### Session 6 (1135 - 1300) - Raghottam
+- Case 4: Red Wine
+- Logistics Regression and Classification
 
 ### Session 7 (1400 - 1530) - Bargava
-
-- Fun Demo : Music Visualization (Amit)
-- Machine Learning - Kaggle BNP Paribas
-
+- Fun Demo : Music Visualization
+- Case 5: Entering a Kaggle Competition
 
 ### Session 8 (1600 - 1730) - Bargava
-- Kaggle
+- Kaggle Competition (contd.)
 - Recap and Way Forward
 - Techniques (ML, Big Data, Optimization, Deep Learning)
 - Medium (Text, Network, Image, Big Data, Sensor Data)
 - Feedback
-
-
 
 ### Food and Hydration
 - 0830 - 0930: Breakfast
