@@ -6,7 +6,7 @@ This is a repository for the data science workshop in Python to be conducted by 
 - [Installation](Installation.md) - To get yourself ready for the workshop.
 - [Schedule](schedule.md) - The broad schedule for the workshop
 - [Introduction](introduction.md) - The overall introduction to the workshop.
-- [Intro to Data Structures in Python](IntroPython.ipynb) - Get started with Python.
+- [Intro to Data Structures in Python](Introduction Python.ipynb) - Get started with Python.
 
 Case Studies
 - [Case #1 - Peeling the Onion](/onion) - Price & Quantity of Onion across in India.
