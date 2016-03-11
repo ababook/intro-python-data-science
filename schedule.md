@@ -24,7 +24,7 @@
 - Case 2: Hard Disk Failure
 - Exploration and building intuition around Failure Rates
 
-### Optional Advanced Session (1730 - 1830)
+### Optional Advanced Session (1730 - 1830) - Nischal
 - Working with SQL to Acquire and Refine Hard Disk Data
 - Office Hours
 
@@ -44,7 +44,7 @@
 - Fun Demo : Music Visualization
 - Case 5: Entering a Kaggle Competition
 
-### Session 8 (1600 - 1730) - Bargava
+### Session 8 (1550 - 1730) - Bargava
 - Kaggle Competition (contd.)
 - Recap and Way Forward
 - Techniques (ML, Big Data, Optimization, Deep Learning)
@@ -53,6 +53,6 @@
 
 ### Food and Hydration
 - 0830 - 0930: Breakfast
-- 1115 - 1145: Tea Break
+- 1115 - 1135: Tea Break
 - 1300 - 1400: Lunch
-- 1530 - 1600: Tea Break
+- 1530 - 1550: Tea Break
