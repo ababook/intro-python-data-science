@@ -31,7 +31,7 @@
 ---
 
 # Raghotham
-## @raghottams
+## @raghothams
 ![](img/raghottam.jpg)
 
 
