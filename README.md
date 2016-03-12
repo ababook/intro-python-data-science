@@ -6,6 +6,7 @@ This is a repository for the data science workshop in Python to be conducted by 
 - [Installation](Installation.md) - To get yourself ready for the workshop.
 - [Schedule](schedule.md) - The broad schedule for the workshop
 - [Introduction](introduction.md) - The overall introduction to the workshop.
+- [Overview](Overview.md) - The overview presentation for the workshop.
 - [Intro to Data Structures in Python](IntroPython.ipynb) - Get started with Python.
 
 Case Studies
@@ -23,4 +24,4 @@ Case Studies
     - [Explore the Data](/hard-disk/Explore.ipynb)
 - [Case #3 - Shining Diamonds](/diamonds/Diamonds.ipynb) - Price of Diamonds based on 4Cs (Carat, Colour, Cut and Clarity)
 - [Case #4 - Wine Selection](/wine/wine-selection.ipynb) - Selecting a good Red Wine to drink
-- [Case #5 - Kaggle Competition](/santander) - Entering your first kaggle competition
+- [Case #5 - Kaggle Competition](/kaggle) - Entering your first kaggle competition
