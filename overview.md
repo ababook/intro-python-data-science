@@ -236,8 +236,183 @@
 
 ---
 
+![](img/diamonds.jpg)
+
+## Session 5 (0930 - 1115)
+- Reflections
+- Intro to Machine Learning
+- Case 3: Shining Diamonds
+- Linear Regression
+
+---
+
+![](img/wine.jpg)
+## Session 6 (1135 - 1300)
+- Case 4: Red Wine
+- Logistics Regression for Classification
+
+---
+
+![](img/kaggle_short.png)
+## Session 7 (1400 - 1530) 
+- Fun Demo : Music Visualization
+- Case 5: Entering a Kaggle Competition
+
+## Session 8 (1550 - 1730)
+- Kaggle Competition (contd.)
+- Recap and Way Forward
+- Feedback
+
+---
+
 ![](img/numbers.jpg)
 # Enjoy the workshop
+
+---
+
+# Recap
+
+---
+
+![](img/approach.jpg)
+
+---
+
+![](img/frame.jpg)
+# Frame
+- **Toy Problems**
+- **Simple Problems**
+- Complex Problems
+- Business Problems
+- Research Problems
+
+---
+
+![](img/acquire.jpg)
+# Acquire
+- **Scraping** (structured, unstructured)
+- **Files** (csv, xls, json, xml, pdf, ...)
+- **Database** (sqlite, ...)
+- APIs 
+- Streaming
+
+---
+
+![](img/refine.jpg)
+# Refine
+- Data Cleaning (inconsistent, missing, ...)
+- Data Refining (derive, parse, merge, filter, convert, ...)
+- **Data Transformations** (group by, pivot, aggregate, sample, summarise, ...)
+
+
+--- 
+
+![](img/explore.jpg)
+# Explore
+- **Simple Vis**
+- Multi Dimensional Vis
+- Geographic Vis
+- Large Data Vis (Bin - Summarise - Smooth)
+- Interactive Vis
+
+---
+
+![](img/model.jpg)
+# Model - Supervised Learning 
+- *Continuous*: Regression - **Linear**, Polynomial, Tree Based Methods - CART, Random Forest, Gradient Boosting Machines
+- *Classification* - **Logistics Regression**, Tree, KNN, SVM, Naive-Bayes. Bayesian Network
+
+---
+
+![](img/model.jpg)
+# Model - UnSupervised Learning 
+- *Continuous*: Clustering & Dimensionality Reduction like PCA, SVD, MDS, K-means
+- *Categorical*: Association Analysis
+
+---
+
+![](img/model.jpg)
+# Model - Advanced / Specialized
+- Network / Graph Analytics
+- Optimization
+- Reinforcement Learning
+- Online Learning
+- Deep Learning
+- Applications: Time Series, Text, Image, Speech 
+
+
+---
+
+![](img/insight.jpg)
+# Insight
+- Narrative Visualisation
+- Dashboard Visualisation
+- Decision Making Tools
+- Automated Decision Tools
+
+---
+
+# PyData Stack 
+- **Acquire / Refine**: `Pandas, Beautiful Soup, Selenium, Requests, SQL Alchemy, Numpy, Blaze`
+- **Explore**: `MatPlotLib, Seaborn, Bokeh, Plotly, Vega, Folium`
+- **Model**: `Scikit-Learn, StatsModels, SciPy, Gensim, Keras, Tensor Flow, PySpark`
+- **Insight**: `Django, Flask`
+
+
+---
+
+# Skills
+![fit](img/skills.png)
+
+---
+
+![fit](img/skills.png)
+
+---
+
+# Books
+
+![fit](img/book.png)
+![fit](img/wesmckinney.jpg)
+![fit](img/thinkstats.jpg)
+
+
+---
+
+![fit](img/book.png)
+![fit](img/wesmckinney.jpg)
+![fit](img/thinkstats.jpg)
+
+---
+![](img/stars.jpg)
+# Online Course
+- Harvard Data Science Course - [CS 109 Course](http://cs109.github.io/2015/)
+- Structured in similar way to the approach we shared
+<br>
+- Many more on Coursera & Udacity...
+
+
+
+---
+![](img/workshop.jpg)
+# Upcoming Workshops
+- Advanced Data Science (Machine Learning, Statistics)
+- Data Science at Scale (Spark)
+- Visualisation (Multi-Dimensional, Geographic, Large Data)
+- Deep Learning (Text, Speech, Image, Video)
+
+---
+![](img/speak.jpeg)
+# Speak to Us!
+<br>
+## Custom Workshops
+## Data Science Consulting
+
+---
+
+![](img/numbers.jpg)
+# Thank you
+### [unnati.xyz/workshop-feedback](http://unnati.xyz/workshop-feedback)
 
 ---
 
